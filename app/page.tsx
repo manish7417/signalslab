@@ -25,7 +25,7 @@ export default function Home() {
             AI + Brain + Future Technology
           </p>
           <button className="bg-white text-black px-6 py-2 rounded">
-            Get Started
+            Get Started with SignalsLab
           </button>
         </div>
 
